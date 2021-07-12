@@ -4,3 +4,5 @@ Programming3 金城先生の授業のフォルダ
 
 ## GitHubの2段階認証
 SSHで接続しよう
+
+GitHub２段階認証が完了！
